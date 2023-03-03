@@ -1,0 +1,7 @@
+- [ ] Inicialiar proyecto con Vite
+- [ ] Añadir linter para TypeScript + React
+- [ ] Añadir estilos del Todo
+- [ ] Listar todos los todos
+- [ ] poder borrar un todo
+- [ ] marcar TODO como completado
+- [ ] 
