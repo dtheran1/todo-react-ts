@@ -13,3 +13,7 @@
 - [x] Anadir animaciones con AutoAnimate
 - [x] Pasar a Reducer
 - [x] Sicronizar con el back
+
+
+![image](https://user-images.githubusercontent.com/83596975/223169314-b7bc2f0a-976a-4b90-9b3d-9ceb592e0c18.png)
+
