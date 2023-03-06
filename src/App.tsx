@@ -71,8 +71,6 @@ const App = (): JSX.Element => {
       id: (crypto.randomUUID())
     }
 
-    console.log(newTodo)
-
     const newTodos = [...todos, newTodo]
     setTodos(newTodos)
   }
